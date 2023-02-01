@@ -1,0 +1,7 @@
+# Data-Analysis-Streamlit-Application
+Sales data analysis Streamlit application
+The data analysis Streamlit application is a tool that allows users to upload and visualize sales data. It is designed to provide insights into the sales performance of a business. The application starts by prompting the user to upload a CSV file containing their sales data. After the data is uploaded, the application performs some data cleaning and transformation steps to prepare the data for analysis.
+
+The first visual display is a line chart that shows the total sales by month. This helps users to see trends in sales over time and to determine if sales are increasing or decreasing. The second visual display is a bar chart that shows the total sales by product. This allows users to see which products are performing well and which are underperforming. The third visual display is a pie chart that shows the sales by region, giving users a sense of which regions are driving the most sales for the business.
+
+Finally, the application also includes a histogram that displays the product sales with respect to the month name. This allows users to see the distribution of sales by product across different months. With this information, users can make informed decisions about which products to focus on in each month to optimize sales. Overall, the data analysis Streamlit application is a valuable tool for businesses to gain insights into their sales performance and to make data-driven decisions.
